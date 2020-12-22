@@ -1,0 +1,21 @@
+item {
+  id: 1
+  name: 'Jennie'
+}
+
+item {
+  id: 2
+  name: 'Jisoo'
+}
+
+item {
+  id: 3
+  name: 'Lisa'
+}
+
+item {
+  id: 4
+  name: 'Rose'
+}
+
+
